@@ -1,0 +1,6 @@
+{
+  "name": "VisionCalc",
+  "description": "Powerful scientific calculator and mathematics study companion featuring Graph Studio, AI Tutor, Calculus library, and Pomodoro focus timer.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
